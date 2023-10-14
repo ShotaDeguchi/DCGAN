@@ -1,0 +1,6 @@
+# ignored files and directories
+
+__pycache__/
+images/
+checkpoints/
+
