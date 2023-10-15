@@ -18,5 +18,5 @@ DCGAN tutorial [here](https://pytorch.org/tutorials/beginner/dcgan_faces_tutoria
 python main.py [-b BATCH_SIZE] [-e EPOCHS] [-p PATIENCE] [-r LR] [-d DEVICE] [-s SEED] [--fraction FRACTION]
 ```
 * `device`: `"cpu"` / `"cuda"` / `"mps"`
-* `fraction`: How much of the data (Celeb-A) used to train. Change this to small values (e.g., `0.05` or `0.2`) for a quick code check. 
+* `fraction`: How much of the data (CelebA) used to train. Change this to small values (e.g., `0.05` or `0.2`) for a quick code check. 
 
